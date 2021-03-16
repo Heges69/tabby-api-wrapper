@@ -1,0 +1,19 @@
+{
+  "name": "tabby-api-wrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Tabby",
+    "API",
+    "Wrapper"
+  ],
+  "author": "heges",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^6.1.0"
+  }
+}
